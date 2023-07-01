@@ -7,7 +7,7 @@ resize_design = Overlay("resizer.bit")
 dma = resize_design.axi_dma_0
 resizer = resize_design.resize_accel_0
 
-image_path = "images/sahara.jpg"
+image_path = "./lenna.png"
 original_image = Image.open(image_path)
 
 canvas = plt.gcf()
