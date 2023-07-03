@@ -9,4 +9,4 @@ PYNQ is an open-source project that aims to work on any computing platform and o
 
 The data transmission of the system is shown below.
 
-<img src="./asset/sys.png" style="width: 50%;" />
+<img src="./asset/sys.png" style="width: 75%;" />
